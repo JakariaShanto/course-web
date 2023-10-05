@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "Asset/Rectangle 2-1.png",
+    "title": "Product 1",
+    "description": "This is the description for Product 1.",
+    "price": 19.99,
+    "credit_hour": 2
+  },
+  {
+    "id": 2,
+    "image": "Asset/Rectangle 2-2.png",
+    "title": "Product 2",
+    "description": "Description for Product 2.",
+    "price": 29.99,
+    "credit_hour": 1
+  },
+  {
+    "id": 3,
+    "image": "Asset/Rectangle 2-3.png",
+    "title": "Product 3",
+    "description": "Description for Product 3.",
+    "price": 14.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 4,
+    "image": "Asset/Rectangle 2-4.png",
+    "title": "Product 4",
+    "description": "This is the description for Product 4.",
+    "price": 24.99,
+    "credit_hour": 2
+  },
+  {
+    "id": 5,
+    "image": "Asset/Rectangle 2-5.png",
+    "title": "Product 5",
+    "description": "Description for Product 5.",
+    "price": 34.99,
+    "credit_hour": 1
+  },
+  {
+    "id": 6,
+    "image": "Asset/Rectangle 2-6.png",
+    "title": "Product 6",
+    "description": "Description for Product 6.",
+    "price": 9.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 7,
+    "image": "Asset/Rectangle 2.png",
+    "title": "Product 7",
+    "description": "This is the description for Product 7.",
+    "price": 19.99,
+    "credit_hour": 2
+  },
+  {
+    "id": 8,
+    "image": "Asset/Rectangle 3-1.png",
+    "title": "Product 8",
+    "description": "Description for Product 8.",
+    "price": 14.99,
+    "credit_hour": 1
+  },
+  {
+    "id": 9,
+    "image": "Asset/Rectangle 3.png",
+    "title": "Product 9",
+    "description": "Description for Product 9.",
+    "price": 29.99,
+    "credit_hour": 3
+  }
+]
